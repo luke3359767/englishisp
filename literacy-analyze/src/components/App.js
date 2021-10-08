@@ -4,6 +4,10 @@ import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import './App.css';
 import Header from './Header';
+import Vlog from "./Vlog"
+import Blog from "./Blog"
+import MainPage from "./MainPage"
+import NotFound from "./NotFound"
 
 
 function App() {
@@ -12,8 +16,10 @@ function App() {
       <Header/>
       <BrowserRouter>
         <Switch>
-          <Route path="/Vlog" component="Vlog"></Route>
-          <Route path="/Blog" component="Blog"></Route>
+          <Route exact path="/" component={MainPage}></Route>
+          <Route path="/Vlog" component={Vlog}></Route>
+          <Route path="/Blog" component={Blog}></Route>
+          <Route component={NotFound} />
         </Switch>
       </BrowserRouter>
     </dev>
