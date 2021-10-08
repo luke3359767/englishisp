@@ -4,11 +4,7 @@ const Vlog=()=>{
     return(
         <div>
             <h1>VLOG</h1>
-            <h1>VLOG</h1>
-            <h1>VLOG</h1>
-            <h1>VLOG</h1>
-            <h1>VLOG</h1>
-            <h1>VLOG</h1>
+            
         </div>
     );
 }

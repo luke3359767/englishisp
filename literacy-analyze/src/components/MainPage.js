@@ -4,17 +4,8 @@ const MainPage=()=>{
     return(
         <div>
             <h1>Welcome to Luke's literacy analyzis</h1>
-            <h2>This is the project of my english class</h2>
-            <div>
-                
-            </div>
-
-            <h5>These are my tests choice:</h5>
-            <ul>
-                <li>Coffee</li>
-                <li>Tea</li>
-                <li>Milk</li>
-            </ul>
+            <h3>Discuss on human value and existentialism of the texts</h3>
+            
             
         </div>
     );
