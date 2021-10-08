@@ -17,6 +17,7 @@ function App() {
       <BrowserRouter>
         <Switch>
           <Route exact path="/" component={MainPage}></Route>
+          <Route path="/MainPage" component={MainPage}></Route>
           <Route path="/Vlog" component={Vlog}></Route>
           <Route path="/Blog" component={Blog}></Route>
           <Route component={NotFound} />
