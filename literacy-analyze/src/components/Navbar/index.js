@@ -14,7 +14,7 @@ const Navbar = () => {
     <>
       <Nav>
         <NavLink to='/'>
-          <img src={require('../../images/logo.svg')} alt='logo' />
+          <h2>Luke's Literacy Review</h2>
         </NavLink>
         <Bars />
         <NavMenu>
