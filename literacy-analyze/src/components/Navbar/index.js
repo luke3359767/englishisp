@@ -27,14 +27,14 @@ const Navbar = () => {
           <NavLink to='/Blog' activeStyle>
             Blog
           </NavLink>
-          <NavLink to='/Blog' activeStyle>
-            Sign Up
+          <NavLink to='/AboutTexts' activeStyle>
+          AboutTexts
           </NavLink>
           {/* Second Nav */}
           {/* <NavBtnLink to='/sign-in'>Sign In</NavBtnLink> */}
         </NavMenu>
         <NavBtn>
-          <NavBtnLink to='/Blog'>Sign In</NavBtnLink>
+          <NavBtnLink to='/Contact'>Contact</NavBtnLink>
         </NavBtn>
       </Nav>
     </>

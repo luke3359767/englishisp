@@ -11,6 +11,10 @@ import Vlog from "./Vlog"
 import Blog from "./Blog"
 import MainPage from "./MainPage"
 import NotFound from "./NotFound"
+import Contact from "./Contact"
+import AboutTexts from "./AboutTexts"
+import Footer from "./Footer"
+
 import Navbar from './Navbar';
 
 function App() {
@@ -21,10 +25,13 @@ function App() {
         <Switch>
           <Route exact path="/" component={MainPage}></Route>
           <Route path="/MainPage" component={MainPage}></Route>
+          <Route path="/Contact" component={Contact}></Route>
+          <Route path="/AboutTexts" component={AboutTexts}></Route>
           <Route path="/Vlog" component={Vlog}></Route>
           <Route path="/Blog" component={Blog}></Route>
           <Route component={NotFound} />
         </Switch>
+        <Footer/>
       </BrowserRouter>
     </dev>
   );
