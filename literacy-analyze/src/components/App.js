@@ -19,7 +19,7 @@ import Navbar from './Navbar';
 
 function App() {
   return (
-    <dev>
+    <dev className="page">
       <BrowserRouter>
         <Navbar/>
         <Switch>
