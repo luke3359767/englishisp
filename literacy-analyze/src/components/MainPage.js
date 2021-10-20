@@ -1,8 +1,12 @@
 import React from "react";
 
+const style={
+    background:"blue",
+  }
+
 const MainPage=()=>{
     return(
-        <div>
+        <div >
             <h1>Welcome to Luke's literacy analyzis</h1>
             <h3>Discuss on human value and existentialism of the texts</h3>
             
