@@ -21,6 +21,8 @@ const style={
   background:"linear-gradient(0deg, rgba(43,238,218,1) 0%, rgba(223,84,255,1) 100%)",
   height:"calc(100vh - 120px)",
   textAlign:"center",
+  
+
 }
 
 function App() {
