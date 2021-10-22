@@ -1,8 +1,13 @@
 import React from "react";
 
+const style={
+    background:"#38318f",
+    
+}
+
 const Footer=()=>{
     return(
-        <div>
+        <div style={style}>
             <p>Footer</p>
         </div>
     );
