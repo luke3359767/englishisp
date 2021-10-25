@@ -19,7 +19,7 @@ const Vlog=()=>{
         <div style={style}>
             <h1 style={{paddingTop:"20px"}}>VLOG</h1>
             <ReactPlayer
-                url="https://youtu.be/luai0p0y2zE"
+                url="https://youtu.be/qLJCeg6B-Zg"
                 controls
                 playbackRate = {2}
                 height = "350px"
