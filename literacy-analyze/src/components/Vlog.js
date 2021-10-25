@@ -21,7 +21,7 @@ const Vlog=()=>{
             <ReactPlayer
                 url="https://youtu.be/qLJCeg6B-Zg"
                 controls
-                playbackRate = {2}
+                playbackRate = {1}
                 height = "350px"
                 width="750px"
                 style={vstyle}
