@@ -7,10 +7,9 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
+    website: 'https://luke3359767.me',
     github: 'https://github.com/luke3359767',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    linkedin: 'https://www.linkedin.com/in/luke-liu-986b76227/',
   },
   pathPrefix: '/devblog',
   siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
