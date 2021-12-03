@@ -14,7 +14,11 @@ function Header({ config }) {
 
   return (
     <Container>
-      <Wrapper>
+      <Wrapper style={{
+        background:"white",
+        marginBottom:"10px",
+        paddingTop:"30px",
+        }}>
         {userConfig.showHeaderImage && (
           <HeaderImage/>
         )}

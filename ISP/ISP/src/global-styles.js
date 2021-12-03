@@ -20,7 +20,10 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background: #f9fafc;
+    background:url(https://i.pinimg.com/736x/20/05/cd/2005cd57af7f73d73bfe2cc72d192cd7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(10px);
     font-family: 'Open Sans', sans-serif; 
     line-height: 1.5;
     padding: 50px 0;
