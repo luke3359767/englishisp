@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'Luke.txt', // Required
+  author: 'Luke Liu', // Required
+  description: '<Only make high quality code/>',
   primaryColor: '#3498db', // Required
-  showHeaderImage: true,
+  showHeaderImage: false,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
     website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
+    github: 'https://github.com/luke3359767',
     twitter: 'https://twitter.com/ryanafitzgerald',
     linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
   },
