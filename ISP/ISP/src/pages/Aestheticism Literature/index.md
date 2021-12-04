@@ -4,13 +4,28 @@ date: "2021-12-04"
 featuredImage: './thumbnail-14.jpg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+Welcome to this post about aestheticism literature. We are going to discuss three different forms of texts which are written by one brilliance writter. 
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+## What is Aestheticism? 
 
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
+There are many different types of aestheticism, but here we are introducing the one which is a artistic movement during 19th century. Aestheticism has one simple idea:
+> ## Art for art's sake 
+
+The follower of aestheticism is called <b>"aesthete"</b> <br/>
+They believe that the only purpose of creating art is to serve its own enjoyment.<br/>
+It sounds fair enough. However, now we are introducing other terms: 
+### Victorian era & Fin De Siècle
+
+Victorian era was the period of Queen Victoria's reign, from 1837 to 1901. Fin De Siècle means "the end of century" in french. Becasue of the background of Victorian fin de siècle (The combination of Victorian era & Fin De Siècle), aestheticism is a pretty revolutionary idea. <br/>
+
+The reason is because the entire Victorian era is about self-improvement. With the rise of the middle class and aristocracy, the Victorians believed the industriousness and commitment was the all young people need to succeed in Europe. The idea of aestheticism is obviously opposite from their opinion because aestheticism rejects "improving art".
+
+## When did aestheticism start?
+Aestheticism was built upon the idea from late 18th century German Romantic philosophers. They believed that "art's value lies not in its usefulness but in its beauty and in the pleasure it gives" 
+
+
 
 *   Morbi sit amet turpis a purus
 *   Etiam tempor ultricies mi
