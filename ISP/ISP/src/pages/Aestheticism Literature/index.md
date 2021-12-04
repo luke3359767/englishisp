@@ -4,26 +4,32 @@ date: "2021-12-04"
 featuredImage: './thumbnail-14.jpg'
 ---
 
-Welcome to this post about aestheticism literature. We are going to discuss three different forms of texts which are written by one brilliance writter. 
+Welcome to this post about aestheticism literature. We are going to discuss three different forms of texts which are written by one brilliant writer.
 
 <!-- end -->
 
 ## What is Aestheticism? 
 
-There are many different types of aestheticism, but here we are introducing the one which is a artistic movement during 19th century. Aestheticism has one simple idea:
+There are many different types of aestheticism, but here we are introducing the one which is an artistic movement during the 19th century. Aestheticism has one simple idea:
 > ## Art for art's sake 
 
 The follower of aestheticism is called <b>"aesthete"</b> <br/>
-They believe that the only purpose of creating art is to serve its own enjoyment.<br/>
+They believe that the only purpose of creating art is to serve its enjoyment.<br/>
 It sounds fair enough. However, now we are introducing other terms: 
 ### Victorian era & Fin De Siècle
 
-Victorian era was the period of Queen Victoria's reign, from 1837 to 1901. Fin De Siècle means "the end of century" in french. Becasue of the background of Victorian fin de siècle (The combination of Victorian era & Fin De Siècle), aestheticism is a pretty revolutionary idea. <br/>
+The victorian era was the period of Queen Victoria's reign, from 1837 to 1901. Fin De Siècle means "the end of the century" in french. Becasue of the background of Victorian fin de siècle (The combination of Victorian era & Fin De Siècle), aestheticism is a pretty revolutionary idea. <br/>
 
-The reason is because the entire Victorian era is about self-improvement. With the rise of the middle class and aristocracy, the Victorians believed the industriousness and commitment was the all young people need to succeed in Europe. The idea of aestheticism is obviously opposite from their opinion because aestheticism rejects "improving art".
+The reason is that the entire Victorian era is about self-improvement. With the rise of the middle class and aristocracy, the Victorians believed industriousness and commitment were all young people need to succeed in Europe. The idea of aestheticism is opposite from their opinion because aestheticism rejects "improving art".
 
 ## When did aestheticism start?
-Aestheticism was built upon the idea from late 18th century German Romantic philosophers. They believed that "art's value lies not in its usefulness but in its beauty and in the pleasure it gives" 
+Aestheticism was built upon the idea from late 18th-century German Romantic philosophers. They believed that "art's value lies not in its usefulness but its beauty and in the pleasure it gives."Aestheticism originated in 1860s England with a radical group of artists and designers, including William Morris and Dante Gabriel Rossetti. It flourished in the 1870s and 1880s, gaining prominence and the support of notable writers such as Walter Pater and Oscar Wilde.<br/>
+
+## Oscar Wilde
+
+My all three texts are all written by Oscar Wilde. He is one of the most popular playwrights in London in the early 1890s. He is also the most famous aesthete becuase of his well known novel and scripts.
+
+
 
 
 
