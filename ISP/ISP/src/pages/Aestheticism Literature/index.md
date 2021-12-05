@@ -49,7 +49,6 @@ which shows the allusion of Caliban from The Tempest, which is written by Shakes
 
 This quote shows how Lord Henry shares his ideas about artists with Dorian. He explains his idea about aestheticism and eventually leads him into hedonism. He thinks that an interesting person cannot be an artist because artists can only sacrifice every other thing to create art. And this is the same idea as "art for art's sake"
 </br>
-</br></br>
 </br>
 >I am so glad that you have never done anything—never carved a statue, or painted a picture, or produced anything outside of yourself! Life has been your art. You have set yourself to music. Your days are your sonnets.
 
@@ -64,6 +63,7 @@ Although The picture of Dorian Gray is an outstanding novel, as I said previousl
 </br>
 The second text is a <b>short story</b> also written by Oscar Wilde. The story was written for children, which offers its youngest readers numerous aesthetic elements. The story was related to aestheticism. The form of social moral criticism is a satire on the vision of bourgeois utilitarianism and doubts and beliefs on ordinary people in the Victorian era: the relationship between beauty and morality, and the moral code of femininity. Finally, the discourse of utilitarianism and the joy of opposing the study of beauty are combined with the vision of aestheticism, advocating "art for the sake of art".
 </br>
+</br>
 The Happy Prince rejects the idea of connecting the pleasure of art and its beauty with happiness. This combination refers to the specific interpretation of the aestheticism made by Pater in his book The Renaissance. Pater suggests that wise men should find their happiness in the enjoyment of the best pleasures of art (191). The Happy Prince also spends his life enjoying pleasure 
 
 >“In the daytime I played with my companions in the garden, and in the evening I led the dance in the Great Hall […] everything about me was so beautiful” (Wilde 280)
@@ -73,9 +73,19 @@ ironically imposed upon him when he died as a retribution for having been self-c
 
 >“My courtiers called me the Happy Prince, and happy indeed I was, if pleasure be happiness” (Wilde 280).
 
- After he becomes a status, he finally see the poverty and misery of poor lower-class.
+ After he becomes a status, he finally see the poverty and misery of poor lower-class. In addition to the questioning of moral standards in "Happy Prince", this story also raises a satire aimed at key members of Victorian society. It mocks the bourgeoisie, especially their obsession with assigning any value. For example, one of the Town councillors attempts to extract a benefit from The Happy Prince status.
+ >"'He is as beautiful as a weathercock,' remarked one of the Town Councillors who wished to gain a reputation for having artistic tastes; 'only not quite so useful,' he added, fearing lest people should think him unpractical, which he really was not" (Wilde 279). 
+
+ Finally, the bourgeoisie is being mocked due to their hypocrisy and lack of intelligence:
+>"'Dear me! How shabby the Happy Prince looks!' he said. 'How shabby, indeed!' cried the Town Councillors, who always agreed with the Mayor" (Wilde 285).
+
+From the work above, we can see how Wilde mock the Victorian bourgeoisie using his believe of aesthetism in the story. It also happen in the next text, which is more extragrated. 
+ 
+
 ## The Importance of Being Earnest 
 ![](https://i.imgur.com/OqtC3Eh.png =100x100)
+
+The Importance of Being Earnest is a <b>play</b> also written by Oscar Wilde. It is the first Wilde work that I have enver read.
 
 
 *   Morbi sit amet turpis a purus
