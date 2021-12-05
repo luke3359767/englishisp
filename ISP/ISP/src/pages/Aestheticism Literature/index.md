@@ -85,7 +85,29 @@ From the work above, we can see how Wilde mock the Victorian bourgeoisie using h
 ## The Importance of Being Earnest 
 ![](https://i.imgur.com/OqtC3Eh.png =100x100)
 
-The Importance of Being Earnest is a <b>play</b> also written by Oscar Wilde. It is the first Wilde work that I have enver read.
+
+</br>
+The Importance of Being Earnest is a <b>play</b> also written by Oscar Wilde. It is the first Wilde work that I have enver read. It is been considered as an artistic testament to the values of the aesthetic movement. It was first performed in London on February 14th, 1895, when is described as Victorian fin de siècle. Bergonzi described the term as“applied to a wide range of trivial behavior, provided it was sufficiently perverse or paradoxical or shocking” (19) And that's why aesthetes applied conscious mode of performance effect to shock others.
+
+</br>
+</br>
+In The Importance of Being Earnest, both Jack and Algernon have a double life and identity. Jack creates a brother called "Earnest", and Algernon has a fictious friend called "Bunbury". When Algernon saw what Jack does, he also joins the acting of Earnest. But while they are acting as a different person, they do not completely abandon their old selves. Instead they both conserve their own personality when being Earnest.
+</br>
+</br>
+Although Jack and Algernon are similar in many ways, Algernon is still consider a member the of upper-class aristocracy. He Lady Bracknell are considered as the people who Oscar Wilde wanted to satire. Algernon is both idle and indulgent; Lady Bracknell only cares about wealth more than anything else. They refer to the two most typically type of Victorian upper-class people. In other words <b>Wilde uses Algernon as a means of criticizing the elite of his society and to condemn the old Victorian values to which aestheticism was strongly opposed. Algernon has some hypocritical lines such as: </b>
+
+> "[the lower orders] seem, as a class, to have absolutely no sense of moral responsibility" (Wilde 184). 
+
+And this is how Huggins described:
+
+>Such a statement would have been extremely ironic at the time, as it was the upper classes to which Algernon belongs, that were identified as suffering from moral degradation (Huggins 589-590).
+
+
+From the sentence above, we can see how Oscar Wilde's text hit Victorians hard again. But now let's go back the the aestheticism. In the play all the characters including Jack, Algernon, Gwendolen, and Cecily, become Wilde's aesthetic artists and critics, ultimately nuancing Wilde’s theory by representing truth as a criterion for beauty. This starts with Jack who uses several fictional
+identities for himself, thus transforming his life into a work of art. Interestingly, understanding Jack as living literature corresponds well with Wilde’s thoughts on art and life, for Wilde argued in “The Decay of Lying” 
+> “Life imitates Art far more than Art imitates Life” (320). 
+
+
 
 
 *   Morbi sit amet turpis a purus
