@@ -27,10 +27,17 @@ Aestheticism was built upon the idea from late 18th-century German Romantic phil
 
 ## Oscar Wilde
 
-My all three texts are written by Oscar Wilde. He was one of the most popular playwrights in London in the early 1890s. He is also the most famous aesthete becuase of his well known novel and scripts. If you go back to the top of the article and look at the picturem you can see the person is actually Oscar Wilde
+My all three texts are written by Oscar Wilde. He was one of the most popular playwrights in London in the early 1890s. He is also the most famous aesthete becuase of his well known novel and scripts. If you go back to the top of the article and look at the picturem you can see the person is actually Oscar Wilde. 
 
+# Texts
+## The Picture of Dorian Gray
+![](https://i.imgur.com/X9G49bi.png =100x100)
 
+## The Happy Prince
+![](https://i.imgur.com/Apin72A.png =100x100)
 
+## The Importance of Being Earnest 
+![](https://i.imgur.com/OqtC3Eh.png =100x100)
 
 
 *   Morbi sit amet turpis a purus
