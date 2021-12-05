@@ -61,6 +61,10 @@ Although The picture of Dorian Gray is an outstanding novel, as I said previousl
 
 ## The Happy Prince
 ![](https://i.imgur.com/Apin72A.png =100x100)
+</br>
+The second text is a <b>short story</b> also written by Oscar Wilde. The story was written for children, which offers its youngest readers numerous aesthetic elements. The story was related to aestheticism. The form of social moral criticism is a satire on the vision of bourgeois utilitarianism and doubts and beliefs on ordinary people in the Victorian era: the relationship between beauty and morality, and the moral code of femininity. Finally, the discourse of utilitarianism and the joy of opposing the study of beauty are combined with the vision of aestheticism, advocating "art for the sake of art".
+</br>
+The Happy Prince rejects the idea of connecting the pleasure of art and its beauty with happiness. This combination refers to the specific interpretation of the aestheticism made by Pater in his book The Renaissance.
 
 ## The Importance of Being Earnest 
 ![](https://i.imgur.com/OqtC3Eh.png =100x100)
