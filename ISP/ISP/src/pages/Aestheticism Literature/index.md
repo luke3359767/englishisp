@@ -104,9 +104,14 @@ And this is how Huggins described:
 
 
 From the sentence above, we can see how Oscar Wilde's text hit Victorians hard again. But now let's go back the the aestheticism. In the play all the characters including Jack, Algernon, Gwendolen, and Cecily, become Wilde's aesthetic artists and critics, ultimately nuancing Wilde’s theory by representing truth as a criterion for beauty. This starts with Jack who uses several fictional
-identities for himself, thus transforming his life into a work of art. Interestingly, understanding Jack as living literature corresponds well with Wilde’s thoughts on art and life, for Wilde argued in “The Decay of Lying” 
+identities for himself, thus transforming his life into a work of art. Interestingly, understanding Jack as the representation of Wilde’s thoughts on art and life, for Wilde argued in “The Decay of Lying”:
 > “Life imitates Art far more than Art imitates Life” (320). 
 
+
+</br>
+</br>
+
+Jack goes further by creating a fictional identity for himself, a fictional brother, Ernest, who later demonstrates Jack’s adherence to Wilde’s aesthetic understanding of life and literature. One significant point is that Jack, like an aesthete, prioritizes beauty over truth. Thus, Jack exemplifies Wilde’s thesis that life should imitate art, and that art should be beautiful rather than truthful, creating an intelligible and exciting life for himself through fictional identities. Same as Jack, Algernon also created a similar identity for himself, a fictional friend, Bunbury. However, like I wrote previously, Wilde does not use Algernon to demonstrate his thesis of aesthetism though they have a very similar situation. This makes the play even more interesting.
 
 
 
