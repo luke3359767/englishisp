@@ -111,6 +111,10 @@ identities for himself, thus transforming his life into a work of art. Interesti
 </br>
 </br>
 
+
+
+
+
 Jack goes further by creating a fictional identity for himself, a fictional brother, Ernest, who later demonstrates Jack’s adherence to Wilde’s aesthetic understanding of life and literature. One significant point is that Jack, like an aesthete, prioritizes beauty over truth. Thus, Jack exemplifies Wilde’s thesis that life should imitate art, and that art should be beautiful rather than truthful, creating an intelligible and exciting life for himself through fictional identities. Same as Jack, Algernon also created a similar identity for himself, a fictional friend, Bunbury. However, like I wrote previously, Wilde does not use Algernon to demonstrate his thesis of aesthetism though they have a very similar situation. This makes the play even more interesting.
 
 
