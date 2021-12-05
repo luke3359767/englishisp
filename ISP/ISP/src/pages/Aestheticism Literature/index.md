@@ -64,8 +64,16 @@ Although The picture of Dorian Gray is an outstanding novel, as I said previousl
 </br>
 The second text is a <b>short story</b> also written by Oscar Wilde. The story was written for children, which offers its youngest readers numerous aesthetic elements. The story was related to aestheticism. The form of social moral criticism is a satire on the vision of bourgeois utilitarianism and doubts and beliefs on ordinary people in the Victorian era: the relationship between beauty and morality, and the moral code of femininity. Finally, the discourse of utilitarianism and the joy of opposing the study of beauty are combined with the vision of aestheticism, advocating "art for the sake of art".
 </br>
-The Happy Prince rejects the idea of connecting the pleasure of art and its beauty with happiness. This combination refers to the specific interpretation of the aestheticism made by Pater in his book The Renaissance.
+The Happy Prince rejects the idea of connecting the pleasure of art and its beauty with happiness. This combination refers to the specific interpretation of the aestheticism made by Pater in his book The Renaissance. Pater suggests that wise men should find their happiness in the enjoyment of the best pleasures of art (191). The Happy Prince also spends his life enjoying pleasure 
 
+>“In the daytime I played with my companions in the garden, and in the evening I led the dance in the Great Hall […] everything about me was so beautiful” (Wilde 280)
+
+During his life, the Prince succeeded in ignoring any pain; however, this pain was
+ironically imposed upon him when he died as a retribution for having been self-centred.
+
+>“My courtiers called me the Happy Prince, and happy indeed I was, if pleasure be happiness” (Wilde 280).
+
+ After he becomes a status, he finally see the poverty and misery of poor lower-class.
 ## The Importance of Being Earnest 
 ![](https://i.imgur.com/OqtC3Eh.png =100x100)
 
