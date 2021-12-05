@@ -27,7 +27,7 @@ Aestheticism was built upon the idea from late 18th-century German Romantic phil
 
 ## Oscar Wilde
 
-My all three texts are all written by Oscar Wilde. He is one of the most popular playwrights in London in the early 1890s. He is also the most famous aesthete becuase of his well known novel and scripts.
+My all three texts are all written by Oscar Wilde. He was one of the most popular playwrights in London in the early 1890s. He is also the most famous aesthete becuase of his well known novel and scripts.
 
 
 
