@@ -11,6 +11,6 @@ module.exports = {
     github: 'https://github.com/luke3359767',
     linkedin: 'https://www.linkedin.com/in/luke-liu-986b76227/',
   },
-  pathPrefix: '/blog',
-  siteUrl: 'https://luke3359767.me/blog/',
+  pathPrefix: '/englishisp',
+  siteUrl: 'https://luke3359767.me/englishisp/',
 };
