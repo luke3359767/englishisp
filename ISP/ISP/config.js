@@ -12,5 +12,5 @@ module.exports = {
     linkedin: 'https://www.linkedin.com/in/luke-liu-986b76227/',
   },
   pathPrefix: '/englishisp',
-  siteUrl: 'https://luke3359767.me/englishisp/',
+  siteUrl: 'https://luke3359767.github.io/englishisp/',
 };
