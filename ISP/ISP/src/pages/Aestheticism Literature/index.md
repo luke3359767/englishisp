@@ -113,5 +113,4 @@ Jack goes further by creating a fictional identity for himself, a fictional brot
 
 ## The Connection & Conclusion
 
-
-
+Now we are heading to the end of the article, the connenction between the three texts. It is obvious that all three texts are written by Oscar Wilde, and they all present the thesis idea of eestheticism through the characters and the quotes, but actually there are more. First, the settings are all in Victorian Fin De Siècle, these texts are written for satiring the utilitarianistic Victorian middle and upper class.
