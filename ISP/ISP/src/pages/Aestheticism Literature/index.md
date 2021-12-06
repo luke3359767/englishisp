@@ -64,22 +64,22 @@ Although The picture of Dorian Gray is an outstanding novel, as I said previousl
 The second text is a <b>short story</b> also written by Oscar Wilde. The story was written for children, which offers its youngest readers numerous aesthetic elements. The story was related to aestheticism. The form of social moral criticism is a satire on the vision of bourgeois utilitarianism and doubts and beliefs on ordinary people in the Victorian era: the relationship between beauty and morality, and the moral code of femininity. Finally, the discourse of utilitarianism and the joy of opposing the study of beauty are combined with the vision of aestheticism, advocating "art for the sake of art".
 </br>
 </br>
-The Happy Prince rejects the idea of connecting the pleasure of art and its beauty with happiness. This combination refers to the specific interpretation of the aestheticism made by Pater in his book The Renaissance. Pater suggests that wise men should find their happiness in the enjoyment of the best pleasures of art (191). The Happy Prince also spends his life enjoying pleasure 
+The Happy Prince rejects the idea of connecting the pleasure of art and its beauty with happiness. This combination refers to the specific interpretation of the aestheticism made by Pater in his book The Renaissance. Pater suggests that wise men should find their happiness in the enjoyment of the best pleasures of art (191). The Happy Prince also spends his life enjoying the pleasure 
 
->“In the daytime I played with my companions in the garden, and in the evening I led the dance in the Great Hall […] everything about me was so beautiful” (Wilde 280)
+>“In the daytime, I played with my companions in the garden, and in the evening I led the dance in the Great Hall […] everything about me was so beautiful” (Wilde 280)
 
 During his life, the Prince succeeded in ignoring any pain; however, this pain was
-ironically imposed upon him when he died as a retribution for having been self-centred.
+ironically imposed upon him when he died as retribution for having been self-centred.
 
->“My courtiers called me the Happy Prince, and happy indeed I was, if pleasure be happiness” (Wilde 280).
+>“My courtiers called me the Happy Prince, and happy indeed I was if pleasure is happiness” (Wilde 280).
 
- After he becomes a status, he finally see the poverty and misery of poor lower-class. In addition to the questioning of moral standards in "Happy Prince", this story also raises a satire aimed at key members of Victorian society. It mocks the bourgeoisie, especially their obsession with assigning any value. For example, one of the Town councillors attempts to extract a benefit from The Happy Prince status.
+ After he becomes a status, he finally sees the poverty and misery of the poor lower-class. In addition to the questioning of moral standards in "Happy Prince", this story also raises a satire aimed at key members of Victorian society. It mocks the bourgeoisie, especially their obsession with assigning any value. For example, one of the Town councillors attempts to extract a benefit from The Happy Prince status.
  >"'He is as beautiful as a weathercock,' remarked one of the Town Councillors who wished to gain a reputation for having artistic tastes; 'only not quite so useful,' he added, fearing lest people should think him unpractical, which he really was not" (Wilde 279). 
 
  Finally, the bourgeoisie is being mocked due to their hypocrisy and lack of intelligence:
 >"'Dear me! How shabby the Happy Prince looks!' he said. 'How shabby, indeed!' cried the Town Councillors, who always agreed with the Mayor" (Wilde 285).
 
-From the work above, we can see how Wilde mock the Victorian bourgeoisie using his believe of aesthetism in the story. It also happen in the next text, which is more extragrated. 
+From the work above, we can see how Wilde mocks the Victorian bourgeoisie using his belief in aestheticism in the story. It also happens in the next text, which is more exaggerated. 
  
 
 ## The Importance of Being Earnest 
@@ -87,14 +87,14 @@ From the work above, we can see how Wilde mock the Victorian bourgeoisie using h
 
 
 </br>
-The Importance of Being Earnest is a <b>play</b> also written by Oscar Wilde. It is the first Wilde work that I have enver read. It is been considered as an artistic testament to the values of the aesthetic movement. It was first performed in London on February 14th, 1895, when is described as Victorian fin de siècle. Bergonzi described the term as“applied to a wide range of trivial behavior, provided it was sufficiently perverse or paradoxical or shocking” (19) And that's why aesthetes applied conscious mode of performance effect to shock others.
+The Importance of Being Earnest is a <b>play</b> also written by Oscar Wilde. It is the first Wilde work that I have ever read. It is been considered as an artistic testament to the values of the aesthetic movement. It was first performed in London on February 14th, 1895, when is described as Victorian fin de siècle. Bergonzi described the term as“applied to a wide range of trivial behaviour, provided it was sufficiently perverse or paradoxical or shocking” (19) And that's why aesthetes applied conscious mode of performance effect to shock others.
 
 </br>
 </br>
-In The Importance of Being Earnest, both Jack and Algernon have a double life and identity. Jack creates a brother called "Earnest", and Algernon has a fictious friend called "Bunbury". When Algernon saw what Jack does, he also joins the acting of Earnest. But while they are acting as a different person, they do not completely abandon their old selves. Instead they both conserve their own personality when being Earnest.
+In The Importance of Being Earnest, both Jack and Algernon have a double life and identity. Jack creates a brother called "Earnest", and Algernon has a fictitious friend called "Bunbury". When Algernon saw what Jack does, he also joins the acting of Earnest. But while they are acting as a different person, they do not completely abandon their old selves. Instead, they both conserve their personality when being Earnest.
 </br>
 </br>
-Although Jack and Algernon are similar in many ways, Algernon is still consider a member the of upper-class aristocracy. He Lady Bracknell are considered as the people who Oscar Wilde wanted to satire. Algernon is both idle and indulgent; Lady Bracknell only cares about wealth more than anything else. They refer to the two most typically type of Victorian upper-class people. In other words <b>Wilde uses Algernon as a means of criticizing the elite of his society and to condemn the old Victorian values to which aestheticism was strongly opposed. Algernon has some hypocritical lines such as: </b>
+Although Jack and Algernon are similar in many ways, Algernon is still considered a member of the upper-class aristocracy. Lady Bracknell is considered as the person whom Oscar Wilde wanted to satire. Algernon is both idle and indulgent; Lady Bracknell only cares about wealth more than anything else. They refer to the two most typical types of Victorian upper-class people. In other words <b>Wilde uses Algernon as a means of criticizing the elite of his society and condemning the old Victorian values to which aestheticism was strongly opposed. Algernon has some hypocritical lines such as: </b>
 
 > "[the lower orders] seem, as a class, to have absolutely no sense of moral responsibility" (Wilde 184). 
 
@@ -103,14 +103,18 @@ And this is how Huggins described:
 >Such a statement would have been extremely ironic at the time, as it was the upper classes to which Algernon belongs, that were identified as suffering from moral degradation (Huggins 589-590).
 
 
-From the sentence above, we can see how Oscar Wilde's text hit Victorians hard again. But now let's go back the the aestheticism. In the play all the characters including Jack, Algernon, Gwendolen, and Cecily, become Wilde's aesthetic artists and critics, ultimately nuancing Wilde’s theory by representing truth as a criterion for beauty. This starts with Jack who uses several fictional
+From the sentence above, we can see how Oscar Wilde's text hit Victorians hard again. But now let's go back the aestheticism. In the play all the characters including Jack, Algernon, Gwendolen, and Cecily, become Wilde's aesthetic artists and critics, ultimately nuancing Wilde’s theory by representing truth as a criterion for beauty. This starts with Jack who uses several fictional
 identities for himself, thus transforming his life into a work of art. Interestingly, understanding Jack as the representation of Wilde’s thoughts on art and life, for Wilde argued in “The Decay of Lying”:
 > “Life imitates Art far more than Art imitates Life” (320). 
 
 </br>
 
-Jack goes further by creating a fictional identity for himself, a fictional brother, Ernest, who later demonstrates Jack’s adherence to Wilde’s aesthetic understanding of life and literature. One significant point is that Jack, like an aesthete, prioritizes beauty over truth. Thus, Jack exemplifies Wilde’s thesis that life should imitate art, and that art should be beautiful rather than truthful, creating an intelligible and exciting life for himself through fictional identities. Same as Jack, Algernon also created a similar identity for himself, a fictional friend, Bunbury. However, like I wrote previously, Wilde does not use Algernon to demonstrate his thesis of aesthetism though they have a very similar situation. This makes the play even more interesting.
+Jack goes further by creating a fictional identity for himself, a fictional brother, Ernest, who later demonstrates Jack’s adherence to Wilde’s aesthetic understanding of life and literature. One significant point is that Jack, like an aesthete, prioritizes beauty over truth. Thus, Jack exemplifies Wilde’s thesis that life should imitate art, and that art should be beautiful rather than truthful, creating an intelligible and exciting life for himself through fictional identities. Same as Jack, Algernon also created a similar identity for himself, a fictional friend, Bunbury. However, as I wrote previously, Wilde does not use Algernon to demonstrate his thesis of aestheticism though they have a very similar situation. This makes the play even more interesting.
 
 ## The Connection & Conclusion
 
-Now we are heading to the end of the article, the connenction between the three texts. It is obvious that all three texts are written by Oscar Wilde, and they all present the thesis idea of eestheticism through the characters and the quotes, but actually there are more. The settings are all in Victorian Fin De Siècle, these texts have the element of satiring the utilitarianistic Victorian middle and upper class, but at here I have to clearify that Oscar Wilde wrote these for art, not for teaching or delivering ideas. He puts these element just for persuing people to discover the beauty of aestheticism (I know it sounds contradictive). As a result, though the lower class people like Wilde's work, others were angry at him and they criticized him in public. The aesthetistic movement ended when Oscar Wilde was convicted of sodomy. Although Aesthetistism only got popular for a short period, it still impact people's perspective on art, a method used to promote or educate readers about important artistic expression in society. 
+Now we are heading to the end of the article, the connection between the three texts. It is obvious that all three texts are written by Oscar Wilde, and they all present the thesis idea of aestheticism through the characters and the quotes, but actually, there are more. The settings are all in Victorian Fin De Siècle, these texts have the element of satire the utilitarianism Victorian middle and upper class, but here I have to clarify that Oscar Wilde wrote these for art, not for teaching or delivering ideas. He puts these elements just for persuing people to discover the beauty of aestheticism (I know it sounds contradictive). As a result, though the lower class people like Wilde's work, others were angry at him and they criticized him in public. The aesthetic movement ended when Oscar Wilde was convicted of sodomy. Although Aesthetistism only got popular for a short period, it still impact people's perspective on art, a method used to promote or educate readers about important artistic expression in society. 
+
+#Thank You!
+
+![](https://thumbs.gfycat.com/SnivelingTangibleBlesbok-size_restricted.gif)
